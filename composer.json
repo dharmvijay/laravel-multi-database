@@ -13,7 +13,7 @@
         "multitenant",
         "multitenancy"],
     "homepage": "https://github.com/dharmvijay/laravel-multi-database/",
-	"minimum-stability": "dev",
+	"version": "v0.1.1",
     "autoload": {
         "psr-0": {
             "Dharmvijay\\LaravelMultiDatabase\\": "src/"
